@@ -1,0 +1,6 @@
+{
+  "name": "test/tessl-plugin-only",
+  "version": "1.0.0",
+  "description": "Fixture with only a .tessl-plugin/plugin.json manifest",
+  "skills": "./skills/"
+}
